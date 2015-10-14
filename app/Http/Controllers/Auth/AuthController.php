@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Krei\Http\Controllers\Auth;
 
-use App\User;
+use Krei\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Krei\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

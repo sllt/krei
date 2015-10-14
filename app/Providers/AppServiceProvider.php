@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Krei\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

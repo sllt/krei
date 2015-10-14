@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Krei\Events;
 
 abstract class Event
 {
